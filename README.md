@@ -1,4 +1,4 @@
-# Intellectual Property NPTEL Course Slides by Prof. Feroz Ali.
+# Intellectual Property NPTEL Course Notes/Slides by Prof. Feroz Ali.
 
 This repository contains the PowerPoint slides for the NPTEL course on Intellectual Property, taught by Prof. Feroz Ali and offered by IIT Madras. The course covers various aspects of Intellectual Property (IP), ranging from the basics to its application in business and creative industries.
 
